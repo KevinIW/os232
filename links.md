@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-
+[os232](https://github.com/KevinIW/os232/blob/master/links.md)<br>
 # LINKS
 1. [One](https://github.com/KevinIW/os232/blob/master/TXT/mylog.txt)<br>
   Link mylog.txt
