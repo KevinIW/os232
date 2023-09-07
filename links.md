@@ -9,4 +9,7 @@ permalink: LINKS/
    Link github
 3. [Three](https://www.os-book.com/OS10/slide-dir/)<br>
     Link buku yang berguna buat OS
+
+   <br>
+   <hr>
    
