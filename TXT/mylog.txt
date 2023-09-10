@@ -14,5 +14,6 @@ ZCZC WO1 20 L01 Scele/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 30 L03 Github related
 ZCZC W01 10 L04 Github pages related
-ZCZC W01 15 L05 Quiz
+ZCZC W01 75 L05 Quiz
 ZCZC W01 240 L09 Weekly Assignments
+ZCZC W01 100 L32 YouTube: watching OS related topics, etc.
