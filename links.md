@@ -10,6 +10,8 @@ permalink: LINKS/
     playlist tutorial yt tentang OS linux dll
 3. [three](https://rms46.vlsm.org/2/213.pdf)<br>
     buku yang menjelaskan tentang OS dengan penjelasan singkat
+4. [four](https://www.youtube.com/watch?v=U_P23SqJaDc)<br>
+    Video yang mengajarkan tentang basic-basic cyber security
    <br>
    <hr>
    
