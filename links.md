@@ -12,6 +12,8 @@ permalink: LINKS/
     buku yang menjelaskan tentang OS dengan penjelasan singkat
 4. [four](https://www.youtube.com/watch?v=U_P23SqJaDc)<br>
     Video yang mengajarkan tentang basic-basic cyber security
+5. [five](https://www.javatpoint.com/linux-commands)<br>
+    all basic linux commands
    <br>
    <hr>
    
