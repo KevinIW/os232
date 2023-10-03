@@ -1,12 +1,12 @@
-ZCZC W03 30 L00 General,Etc
-ZCZC W03 20 L01 Scele/Discord related
-ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 30 L03 Github related
-ZCZC W03 10 L04 Github pages related
-ZCZC W03 45 L09 Weekly Assignments
-ZCZC W03 30 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
-ZCZC W03 20 L64 Helping a friend (OS related problem
+ZCZC W04 30 L00 General,Etc
+ZCZC W04 20 L01 Scele/Discord related
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L03 Github related
+ZCZC W04 10 L04 Github pages related
+ZCZC W04 45 L09 Weekly Assignments
+ZCZC W04 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 20 L64 Helping a friend (OS related problem
 ZCZC W03 30 L00 General,Etc
 ZCZC W03 20 L01 Scele/Discord related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
