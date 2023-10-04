@@ -14,6 +14,8 @@ permalink: LINKS/
     Video yang mengajarkan tentang basic-basic cyber security
 5. [five](https://www.javatpoint.com/linux-commands)<br>
     all basic linux commands
+6. [six](https://www.geeksforgeeks.org/tar-command-linux-examples/)
+    tarball linux commands
    <br>
    <hr>
    
