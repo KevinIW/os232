@@ -16,6 +16,8 @@ permalink: LINKS/
     all basic linux commands
 6. [six](https://www.geeksforgeeks.org/tar-command-linux-examples/)
     tarball linux commands
+7. [seven](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)
+    mounting in linux
    <br>
    <hr>
    
