@@ -1,3 +1,12 @@
+ZCZC W06 30 L00 General, Etc
+ZCZC W06 20 L01 Scele/Discord related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L03 Github related
+ZCZC W06 10 L04 Github pages related
+ZCZC W06 75 L09 Weekly Assignments
+ZCZC W06 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 20 L64 Helping a friend (OS related problem)
 ZCZC W05 30 L00 General, Etc
 ZCZC W05 20 L01 Scele/Discord related
 ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
