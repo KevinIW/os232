@@ -18,6 +18,9 @@ permalink: LINKS/
     tarball linux commands
 7. [seven](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)
     mounting in linux
+8. [eight](https://www.scaler.com/topics/shared-memory-linux/)
+    share memory in linux 
+
    <br>
    <hr>
    
