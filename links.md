@@ -20,7 +20,8 @@ permalink: LINKS/
     mounting in linux
 8. [eight](https://www.scaler.com/topics/shared-memory-linux/)
     share memory in linux 
-
+9. [nine](https://dev.to/0xog_pg/using-shared-memory-in-linux-1p62)
+    using share memory in linux using c
    <br>
    <hr>
    
