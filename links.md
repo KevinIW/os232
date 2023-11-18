@@ -22,6 +22,8 @@ permalink: LINKS/
     share memory in linux 
 9. [nine](https://dev.to/0xog_pg/using-shared-memory-in-linux-1p62)
     using share memory in linux using c
+10. [ten](https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/)
+     using lfs
    <br>
    <hr>
    
