@@ -24,6 +24,8 @@ permalink: LINKS/
     using share memory in linux using c
 10. [ten](https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/)
      using lfs
+11. [eleven](https://www.linuxfromscratch.org/lfs/view/12.0/chapter07/cleanup.html)
+    lfs chapter 7
    <br>
    <hr>
    
