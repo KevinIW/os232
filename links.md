@@ -26,6 +26,8 @@ permalink: LINKS/
      using lfs
 11. [eleven](https://www.linuxfromscratch.org/lfs/view/12.0/chapter07/cleanup.html)
     lfs chapter 7
+12. [twelve](https://www.linuxfromscratch.org/lfs/view/12.0/chapter08/)
+     using lfs
    <br>
    <hr>
    
